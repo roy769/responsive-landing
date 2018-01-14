@@ -4,8 +4,8 @@
 }
 
 .logo{
-  mix-blend-mode: lighten;
-  opacity: .3;
+  mix-blend-mode: overlay;
+  opacity: .6;
 }
 .card-logo{
   margin: 0 auto;
