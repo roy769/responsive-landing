@@ -1,0 +1,24 @@
+{
+  "name": "responsive-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roy769/responsive-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roy769/responsive-landing/issues"
+  },
+  "homepage": "https://github.com/roy769/responsive-landing#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "normalize.css": "^7.0.0"
+  }
+}

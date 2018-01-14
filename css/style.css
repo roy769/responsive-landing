@@ -1,0 +1,13 @@
+*{
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.logo{
+  mix-blend-mode: lighten;
+  opacity: .3;
+}
+.card-logo{
+  margin: 0 auto;
+
+}
